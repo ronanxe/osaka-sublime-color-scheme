@@ -12,7 +12,7 @@ Vibrant color scheme for sublime text with some bright colors. based on Osaka co
 ![ss](/assets/2.png)
 ![ss](/assets/3.png)
 
-⚠️ ### NOTE : The colors are bright by default! feel free to use pastel or whatever colors you like :3
+⚠️ NOTE : The colors are bright by default! feel free to use pastel or whatever colors you like :3
 
 ### Installation:
 
